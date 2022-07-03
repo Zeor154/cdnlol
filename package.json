@@ -8,7 +8,7 @@
     "start": "node ."
   },
   "keywords": [],
-  "author": "",
+  "author": "Zeor154 <seree.hiranrak@gmal.com>",
   "license": "ISC",
   "dependencies": {
     "ejs": "^3.1.8",
@@ -16,5 +16,6 @@
     "express-fileupload": "^1.4.0",
     "fs": "^0.0.1-security",
     "path": "^0.12.7"
-  }
+  },
+  "repository": "https://github.com/Zeor154/cdnlol.git"
 }
